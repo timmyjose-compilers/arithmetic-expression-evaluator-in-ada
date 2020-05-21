@@ -7,7 +7,7 @@ This project grew out of a blog idea for my [technical blog](https://timmyjose.g
 Release mode (which is also the default):
 
 ```
-  $ gprbuild -Xmode=releae -P eval.gpr
+  $ gprbuild -Xmode=release -P eval.gpr
 ```
 
 For debug mode, 
