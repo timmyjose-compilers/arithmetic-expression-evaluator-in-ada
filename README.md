@@ -4,7 +4,17 @@ This project grew out of a blog idea for my [technical blog](https://timmyjose.g
 
 ### Build
 
-### Test
+Release mode (which is also the default):
+
+```
+  $ gprbuild -Xmode=releae -P eval.gpr
+```
+
+For debug mode, 
+
+```
+  $ gprbuild -Xmode=debug -P eval.gpr
+```
 
 ### Licence
 
