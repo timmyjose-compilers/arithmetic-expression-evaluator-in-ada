@@ -18,4 +18,4 @@ For debug mode,
 
 ### Licence
 
-See [LICENCE](https://github.com/timmyjose-projects/arithmetic-expression-evaluator-in-ada/blob/master/LICENCE.md).
+See [LICENCE](LICENSE.md).
